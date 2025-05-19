@@ -1,4 +1,4 @@
-# OTT-Merger-Project
+# OTT Merger Analysis Project
 
 
 ## Problem Statement : Provide Insights for a Strategic Merger of Lio-Cinema & Jot-star in the OTT Domain
